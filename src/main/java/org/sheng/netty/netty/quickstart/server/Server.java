@@ -1,4 +1,4 @@
-package org.sheng.netty.netty;
+package org.sheng.netty.netty.quickstart.server;
 
 import org.jboss.netty.bootstrap.ServerBootstrap;
 import org.jboss.netty.channel.ChannelPipeline;
