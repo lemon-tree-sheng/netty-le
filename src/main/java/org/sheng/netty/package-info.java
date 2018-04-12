@@ -4,5 +4,6 @@
  * 线程模型
  * 事件驱动
  * 零拷贝
+ * selector bug
  */
 package org.sheng.netty;
